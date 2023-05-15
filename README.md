@@ -17,5 +17,4 @@
 [BaseModel] (22442c9d-2df8-4ad6-9877-fbebe5dc38eb) {'updated_at': datetime.datetime(2018, 6, 13, 14, 39, 8, 949289), 'id': '22442c9d-2df8-4ad6-9877-fbebe5dc38eb', 'created_at': datetime.datetime(2018, 6, 13, 14, 39, 8, 949072)}
 ```
 ### Authors:
-* Daniel Kazemian <274@holbertonschool.com>
-* Andrew Suh <307@holbertonschool.com>
+* Vincent Munyalo <vmulwah@gmail.com>
